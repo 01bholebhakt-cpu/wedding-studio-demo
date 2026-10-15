@@ -141,8 +141,7 @@ export default function Home() {
 
           <div className="mt-12 flex flex-col gap-8 sm:mt-16 sm:flex-row sm:items-end sm:justify-between">
             <p className="max-w-[340px] text-sm leading-7 text-white/80">
-              Photographs for the people who want to remember not just how
-              their wedding looked, but exactly how it felt to be there.
+              
             </p>
 
             <a
@@ -484,8 +483,7 @@ export default function Home() {
             </a>
 
             <p className="mt-4 text-[10px] leading-6 text-[#8c877b]">
-              Portfolio concept by CodeWave Studios. Replace the example email
-              with the business owner&apos;s real email before launch.
+              Portfolio concept by CodeWave Studios. 
             </p>
           </div>
         </div>
